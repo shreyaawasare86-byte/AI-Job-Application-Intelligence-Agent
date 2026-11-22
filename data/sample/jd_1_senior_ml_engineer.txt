@@ -1,0 +1,32 @@
+Role: Senior Machine Learning Engineer - LLM & Generative AI
+Company: Synthetix AI
+Location: San Francisco, CA (Hybrid)
+Job Type: Full-time
+
+About Us:
+Synthetix AI is building next-generation autonomous knowledge agents for Fortune 500 enterprises. We are backed by premier Silicon Valley venture capital and looking for a Senior Machine Learning Engineer to spearhead our LLM Systems and Retrieval Infrastructure.
+
+Key Responsibilities:
+- Design, build, and deploy production-grade Large Language Model (LLM) architectures, including agentic workflows, RAG systems, and semantic search.
+- Fine-tune open-weight and proprietary foundation models (LoRA, PEFT, DPO) to optimize performance on proprietary structured and unstructured corporate data.
+- Scale our high-throughput, low-latency inference serving infrastructure using vLLM, TensorRT-LLM, or Triton Inference Server.
+- Partner with product engineers to integrate model outputs into resilient FastAPI microservices.
+- Establish automated model evaluation, hallucination detection guardrails, and data drift monitoring using MLflow or Weights & Biases.
+
+Required Qualifications:
+- 5+ years of production experience in Machine Learning and Software Engineering.
+- Strong proficiency in Python, PyTorch, and transformer-based architectures (Hugging Face ecosystem).
+- Hands-on experience developing enterprise RAG systems, vector databases (Pinecone, Qdrant, Milvus), and rerankers.
+- Proven experience deploying and scaling deep learning models in AWS (SageMaker, EKS, EC2) or GCP.
+- Familiarity with containerization (Docker, Kubernetes) and CI/CD pipelines for MLOps.
+- B.S., M.S., or Ph.D. in Computer Science, Data Science, or related quantitative field.
+
+Preferred Qualifications:
+- Experience with multi-agent orchestration frameworks (LangGraph, CrewAI, AutoGen).
+- Background in model quantization (AWQ, GPTQ) and high-throughput inference optimization.
+- Track record of open-source contributions or peer-reviewed publications in NLP/ML.
+
+Benefits & Perks:
+- Competitive base salary: $175,000 - $225,000 + significant equity grant
+- Comprehensive health, dental, and vision insurance
+- $3,000 annual learning and conference budget

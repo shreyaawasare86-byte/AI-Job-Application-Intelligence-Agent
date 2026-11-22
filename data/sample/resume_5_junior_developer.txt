@@ -1,0 +1,31 @@
+JORDAN BLAKE
+New York, NY | (555) 567-8901 | jordan.blake@email.com
+linkedin.com/in/jordanblake-dev | github.com/jordanblake-code
+
+OBJECTIVE
+Motivated Computer Science graduate with strong foundations in Python, object-oriented design, algorithms, and relational databases. Seeking a Junior Backend Developer role to build scalable web applications and learn from senior engineers.
+
+TECHNICAL SKILLS
+- Languages: Python, JavaScript, SQL, HTML/CSS
+- Frameworks: Flask, Django Basics, FastAPI Basics
+- Databases: SQLite, PostgreSQL
+- Tools & Technologies: Git, GitHub, Docker (Basic), Linux/Unix CLI, Postman, Pytest
+
+ACADEMIC PROJECTS
+- RecipeFinder REST API: Designed and built a RESTful API using Python, Flask, and PostgreSQL. Included JWT authentication, rate limiting, and 25 unit tests written in pytest (92% test coverage).
+- Campus Housing Tracker: Web application allowing students to browse and rate local housing options. Built backend endpoints in Python with SQLite database and deployed on Render.
+- Algorithm Visualizer: Interactive web tool visualizing sorting algorithms (QuickSort, MergeSort) and pathfinding algorithms in JavaScript.
+
+WORK EXPERIENCE
+Computer Science Teaching Assistant | New York University | Sep 2023 – May 2024
+- Assisted introductory computer science course of 120+ undergraduate students in Python fundamentals, data structures, and debugging techniques.
+- Led weekly lab sessions and graded 50+ programming assignments with constructive feedback on code cleanliness and PEP 8 style guidelines.
+
+Software Engineering Intern | MetroTech Solutions, Brooklyn, NY | Jun 2023 – Aug 2023
+- Assisted in writing Python utility scripts for internal data migration from legacy CSV stores to PostgreSQL database.
+- Implemented 10+ unit tests using Pytest to validate data transformation functions, catching 6 critical data format bugs before deployment.
+- Participated in daily Agile standups, sprint planning, and bi-weekly code reviews.
+
+EDUCATION
+- B.S. in Computer Science, New York University (NYU), May 2024
+  - GPA: 3.7 / 4.0, Dean's Honor Roll

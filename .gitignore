@@ -1,0 +1,30 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables & secrets (CRITICAL: Do not commit API keys)
+.env
+.env.local
+
+# Local application database & LLM cache
+data/applications.db
+data/cache/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo

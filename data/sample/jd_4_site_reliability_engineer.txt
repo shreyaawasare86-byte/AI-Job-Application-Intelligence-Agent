@@ -1,0 +1,27 @@
+Role: Staff Site Reliability Engineer (SRE / Cloud Platform)
+Company: Nexus Enterprise Cloud
+Location: Seattle, WA (or Remote)
+Job Type: Full-time
+
+About Nexus Enterprise Cloud:
+Nexus builds mission-critical infrastructure software powering modern enterprise SaaS applications. We are seeking an experienced SRE to scale our global multi-region cloud platform, enhance reliability, and lead incident response automation.
+
+Responsibilities:
+- Build and operate large-scale Kubernetes clusters running on AWS and hybrid cloud environments.
+- Define and implement Infrastructure as Code using Terraform and GitOps practices (ArgoCD or Flux).
+- Establish Service Level Objectives (SLOs), Service Level Indicators (SLIs), and error budgets across all engineering teams.
+- Enhance observability stacks utilizing Prometheus, Grafana, OpenTelemetry, and distributed tracing.
+- Participate in on-call rotation, conduct blameless post-mortems, and eliminate operational toil through automated tooling (Go or Python).
+
+Minimum Requirements:
+- 5+ years experience in SRE, DevOps, or Cloud Infrastructure Engineering.
+- Production expertise managing Kubernetes clusters (EKS/GKE) and Helm charts.
+- Deep knowledge of AWS services (networking, VPC peering, IAM, compute, security).
+- Strong proficiency in Terraform for automated infrastructure provisioning.
+- Practical experience with observability tooling (Prometheus, Grafana, Datadog).
+- Working proficiency in Go, Python, or Bash for systems automation.
+
+Preferred:
+- CKA (Certified Kubernetes Administrator) certification.
+- Hands-on experience with service mesh technologies (Istio, Linkerd) and zero-trust networking.
+- Experience managing SOC2 and ISO27001 compliance automation.

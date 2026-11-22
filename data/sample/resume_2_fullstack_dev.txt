@@ -1,0 +1,32 @@
+PRIYA CHEN
+Austin, TX | (555) 789-0123 | priya.chen@email.com
+linkedin.com/in/priyachen-dev | github.com/priyachen-fullstack
+
+PROFESSIONAL SUMMARY
+Full Stack Software Engineer with 4+ years building high-traffic, reactive web applications and distributed backend APIs. Specialized in React, TypeScript, Python (FastAPI/Django), and PostgreSQL. Led frontend re-architecture resulting in 45% faster page loads and integrated secure Stripe payment processing for $12M annual transaction volume.
+
+SKILLS
+- Languages: TypeScript, JavaScript, Python, HTML5, CSS3/TailwindCSS, SQL
+- Frontend: React 18, Next.js, Redux Toolkit, React Query, Zustand, Webpack, Vite
+- Backend: FastAPI, Django, Node.js, Express, RESTful APIs, GraphQL
+- Databases & Storage: PostgreSQL, Redis, MongoDB, SQLAlchemy
+- Cloud & DevOps: AWS (ECS, S3, CloudFront), Docker, GitHub Actions CI/CD, Jest, Playwright
+
+WORK EXPERIENCE
+Full Stack Engineer | FinBridge Systems, Austin, TX | Feb 2022 – Present
+- Re-architected customer analytics portal using React 18, Next.js, and TailwindCSS, reducing initial bundle size by 35% and improving Core Web Vitals to 96+.
+- Designed and maintained 15+ asynchronous FastAPI endpoints handling 3,000 requests/minute for real-time portfolio tracking and reporting.
+- Integrated Stripe billing infrastructure and webhook listener with idempotency locks, managing recurring subscriptions for over 45,000 active businesses.
+- Built automated test suites using Jest and Playwright reaching 88% branch coverage, decreasing production defect rate by 27%.
+
+Software Engineer | BlueSky Media, Denver, CO | Aug 2020 – Jan 2022
+- Developed content management dashboards using React, Redux, and Node.js for editorial team of 80+ journalists.
+- Implemented Redis caching layer on hot database queries, improving endpoint response time from 320ms to 42ms.
+- Provisioned Docker containers and configured GitHub Actions workflows for zero-downtime deployment to AWS ECS.
+
+EDUCATION
+- B.S. in Computer Science, University of Texas at Austin, 2020
+
+PROJECTS
+- DevMetrics: Real-time developer productivity dashboard aggregating GitHub, Jira, and Slack metrics using Next.js and FastAPI.
+- TaskFlow: Collaborative kanban project manager built with WebSockets, React, and Python.

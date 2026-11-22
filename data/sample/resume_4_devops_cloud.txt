@@ -1,0 +1,33 @@
+ELENA ROSTOVA
+Seattle, WA | (555) 456-7890 | elena.rostova@email.com
+linkedin.com/in/elena-rostova-cloud | github.com/erostova-devops
+
+SUMMARY
+DevOps / Site Reliability Engineer with 5+ years of experience automating cloud infrastructure, Kubernetes orchestration, and continuous delivery pipelines across multi-region AWS environments. Champion of infrastructure-as-code (Terraform) and GitOps principles, maintaining 99.99% uptime for microservices serving 10M+ MAU.
+
+TECHNICAL SKILLS
+- Cloud: AWS (EKS, IAM, VPC, S3, RDS, CloudWatch), Azure
+- Container & Orchestration: Kubernetes, Docker, Helm, ArgoCD, Istio Service Mesh
+- Infrastructure as Code & Config: Terraform, Terragrunt, Ansible, Packer
+- CI/CD: GitHub Actions, GitLab CI, Jenkins
+- Observability: Prometheus, Grafana, Datadog, OpenTelemetry, ELK Stack
+- Scripting & Languages: Python, Go, Bash, YAML
+
+EXPERIENCE
+Senior Cloud Infrastructure Engineer | CloudVenture Labs, Seattle, WA | May 2022 – Present
+- Architected multi-tenant Kubernetes (EKS) clusters supporting 60+ microservices with zero unmanaged configuration drift using Terraform and ArgoCD GitOps.
+- Built automated canary deployments and traffic splitting with Istio service mesh, cutting production release rollback times from 25 minutes to under 40 seconds.
+- Designed comprehensive Datadog and Prometheus alerting thresholds and runbooks, reducing Mean Time to Detect (MTTD) by 48% and Mean Time to Resolution (MTTR) by 35%.
+- Implemented AWS Cost Explorer automated tagging and Spot instance autoscaling pools, saving $140,000 annually on compute infrastructure.
+
+DevOps Engineer | StrataScale Systems, Portland, OR | Jul 2019 – Apr 2022
+- Migrated legacy on-premise monolithic architecture to AWS ECS and RDS PostgreSQL with 99.98% uptime during migration cutover.
+- Automated CI/CD pipelines in GitLab CI and GitHub Actions, reducing deployment cycle times from 45 minutes to 7 minutes.
+- Secured cloud environments through IAM least-privilege policies, HashiCorp Vault secrets management, and automated Trivy container image scanning.
+
+EDUCATION
+- B.S. in Computer Engineering, University of Washington, 2019
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Professional (2023)
+- Certified Kubernetes Administrator (CKA, Linux Foundation)

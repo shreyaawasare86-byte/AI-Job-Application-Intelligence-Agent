@@ -1,0 +1,31 @@
+MARCUS VANCE
+Chicago, IL | (555) 345-6789 | marcus.vance@email.com
+linkedin.com/in/marcusvance-data | github.com/marcusvance-bi
+
+PROFESSIONAL SUMMARY
+Results-driven Data Analyst with 5 years of experience delivering actionable business intelligence, KPI dashboards, and statistical models in e-commerce and retail. Expert in SQL, Python (pandas, scikit-learn), Tableau, and dbt. Identified $3.2M in supply chain cost savings and automated 40+ executive reporting workflows.
+
+SKILLS
+- Analytics & BI: SQL (PostgreSQL, Snowflake, BigQuery), Tableau, Power BI, Looker, Excel (Advanced)
+- Programming: Python (pandas, numpy, statsmodels, scikit-learn), R, Bash
+- Data Modeling & Warehousing: dbt, Snowflake, Star Schema, ETL/ELT pipeline design, Airflow
+- Statistical Methods: A/B Testing, Hypothesis Testing, Cohort Analysis, Customer Lifetime Value (CLV), Regression
+
+EXPERIENCE
+Senior Data Analyst | OmniRetail Group, Chicago, IL | Mar 2022 – Present
+- Built and maintained corporate Tableau executive dashboard suite tracking $240M annual revenue across 12 product categories with daily automated refreshes.
+- Designed Snowflake and dbt data transformation pipelines converting raw web clickstream and transactional data into clean star-schema analytical models.
+- Led rigorous A/B test analysis on checkout redesign that identified statistical lift of 4.3% in completed conversions, translating to $1.8M incremental GMV.
+- Conducted customer segmentation and cohort retention analysis using Python and k-means clustering, improving marketing campaign ROAS by 22%.
+
+Data Analyst | PeakLogistics, Indianapolis, IN | Jun 2019 – Feb 2022
+- Analyzed shipping route efficiencies and carrier performance metrics using SQL and Python, discovering operational bottlenecks that reduced transit time by 1.4 days.
+- Created Power BI operational dashboards used daily by 150+ distribution center managers.
+- Automated weekly financial reconciliation reports in Python, saving 16 hours of manual spreadsheet work every month.
+
+EDUCATION
+- B.S. in Statistics & Economics, University of Illinois at Urbana-Champaign, 2019
+
+CERTIFICATIONS
+- Tableau Certified Desktop Specialist (2022)
+- dbt Fundamentals Certified

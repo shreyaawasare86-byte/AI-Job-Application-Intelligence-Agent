@@ -1,0 +1,27 @@
+Role: Junior Backend Developer (Python)
+Company: CodeCraft Digital
+Location: New York, NY (Hybrid)
+Job Type: Full-time
+
+About CodeCraft Digital:
+CodeCraft Digital is a software agency creating custom enterprise web applications for media, education, and finance clients. We are seeking an enthusiastic Junior Backend Developer who is eager to grow, write clean Python code, and contribute to production web APIs.
+
+Key Responsibilities:
+- Write clean, maintainable, and well-tested Python backend code under the mentorship of senior engineers.
+- Build RESTful API endpoints and integrate backend services with relational databases (PostgreSQL).
+- Write comprehensive unit and integration tests using Pytest.
+- Debug application issues and participate in peer code reviews to uphold code quality standards.
+- Collaborate with frontend engineers to integrate API contracts.
+
+Required Qualifications:
+- Bachelor's degree in Computer Science, Software Engineering, or related technical field (new grads welcome).
+- Solid understanding of Python core principles, data structures, and object-oriented programming.
+- Familiarity with web frameworks such as Flask, FastAPI, or Django.
+- Working knowledge of SQL queries and relational database concepts.
+- Familiarity with version control using Git and GitHub.
+- Strong willingness to learn, ask thoughtful questions, and receive feedback.
+
+Preferred Qualifications:
+- Prior internship experience in software development.
+- Basic exposure to Docker or cloud deployment concepts.
+- Experience writing automated unit tests.

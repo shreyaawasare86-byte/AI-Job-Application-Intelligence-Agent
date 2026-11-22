@@ -1,0 +1,27 @@
+Role: Lead Data Analyst - Product & Growth
+Company: ShopStream Commerce
+Location: Chicago, IL (Hybrid)
+Job Type: Full-time
+
+About ShopStream:
+ShopStream is a fast-growing live video shopping marketplace. We are looking for a Lead Data Analyst to lead our product analytics, experimentation framework, and data visualization initiatives.
+
+Responsibilities:
+- Own the product experimentation and A/B testing framework, advising engineering and product managers on sample size sizing, hypothesis formulation, and variance reduction.
+- Build clean, reproducible data models in Snowflake using dbt to support self-serve analytics across the business.
+- Design world-class executive dashboards and exploratory reports in Tableau and Looker.
+- Analyze retention, churn, and viral acquisition loops using cohort modeling and survival analysis in SQL and Python.
+- Mentor junior and mid-level data analysts on SQL best practices, data storytelling, and dimensional modeling.
+
+Requirements:
+- 5+ years of data analytics or business intelligence experience in tech, e-commerce, or high-growth environments.
+- Advanced proficiency in SQL (window functions, query plan optimization, CTEs) on modern data warehouses (Snowflake, BigQuery, or Redshift).
+- Expert-level data visualization skills in Tableau, Looker, or Power BI.
+- Hands-on experience with dbt (data build tool) and semantic layer definitions.
+- Solid understanding of statistical testing (A/B testing, hypothesis tests, sample size determination).
+- Strong communicator capable of synthesizing complex analytical insights for C-level executives.
+
+Nice to Have:
+- Proficiency in Python or R for advanced data wrangling and statistical modeling.
+- Experience with product event analytics platforms (Amplitude, Mixpanel, Segment).
+- Prior experience managing or mentoring data analysts.

@@ -1,0 +1,38 @@
+ALEX RIVERA
+San Francisco, CA | (555) 234-5678 | alex.rivera@email.com
+linkedin.com/in/alexrivera-ai | github.com/alexrivera-ml
+
+PROFESSIONAL SUMMARY
+Senior Machine Learning Engineer with 6+ years of experience designing and deploying scalable deep learning and LLM architectures in production. Proven track record leading LLM fine-tuning, RAG pipelines, and vector database integrations that improved response relevance by 42% and reduced inference latency by 35%. Passionate about production ML systems, PyTorch, and distributed training.
+
+TECHNICAL SKILLS
+- Languages: Python, C++, SQL, Bash
+- Frameworks & Libraries: PyTorch, TensorFlow, Hugging Face Transformers, LangChain, LlamaIndex, vLLM
+- ML / AI: Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Fine-Tuning (LoRA/QLoRA), Vector Search, NLP, Computer Vision
+- Cloud & MLOps: AWS (SageMaker, EC2, S3), GCP (Vertex AI), Docker, Kubernetes, MLflow, Weights & Biases, Ray
+- Databases: PostgreSQL, Pinecone, Qdrant, ChromaDB, Redis
+
+PROFESSIONAL EXPERIENCE
+Senior Machine Learning Engineer | NeuralScale AI, San Francisco, CA | Jan 2022 – Present
+- Architected enterprise Retrieval-Augmented Generation (RAG) pipeline querying 15M+ documents using Qdrant vector store and hybrid BM25 search, reducing hallucination rates by 38%.
+- Optimized LLM inference serving using vLLM and TensorRT-LLM on AWS EC2 G5 clusters, improving throughput from 12 req/s to 55 req/s while lowering compute costs by $18K/month.
+- Fine-tuned open-source LLMs (Llama 3 8B/70B, Mistral) using QLoRA and synthetic datasets generated via Self-Instruct, achieving 89% accuracy on domain-specific extraction tasks.
+- Mentored 4 junior ML engineers on MLflow experiment tracking, automated evaluation harnesses, and continuous model deployment.
+
+Machine Learning Engineer | Apex Data Labs, Seattle, WA | Jun 2019 – Dec 2021
+- Built automated document classification and entity extraction pipeline using BERT and PyTorch, processing 200,000 PDFs daily with 94.5% F1 score.
+- Containerized model training workflows with Docker and orchestrated distributed training across multi-node GPU clusters with Ray and Kubernetes.
+- Designed automated feature stores and validation checks using Feast and Great Expectations, catching data drift 3 weeks earlier than legacy manual audits.
+- Collaborated with product and backend teams to integrate RESTful model endpoints into FastAPI microservices with sub-50ms p99 response times.
+
+PROJECTS
+- OpenRAG Benchmark: Open-source benchmarking harness for evaluation of chunking strategies and reranking algorithms across 10 QA datasets (1,200+ GitHub stars).
+- MedSummarizer: Fine-tuned clinical note summarization system combining PubMedBERT embeddings and T5 with Hallucination Guardrails.
+
+EDUCATION
+- M.S. in Computer Science (Machine Learning Specialization), Stanford University, 2019
+- B.S. in Computer Science, UC Berkeley, 2017
+
+CERTIFICATIONS
+- AWS Certified Machine Learning – Specialty (2023)
+- DeepLearning.AI Deep Learning Specialization

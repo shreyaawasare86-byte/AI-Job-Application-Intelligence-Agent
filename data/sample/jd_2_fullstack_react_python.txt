@@ -1,0 +1,27 @@
+Role: Senior Full Stack Engineer (React & Python)
+Company: PayFlow Commerce
+Location: Remote (US)
+Job Type: Full-time
+
+About PayFlow Commerce:
+PayFlow is an all-in-one payment infrastructure company powering modern B2B SaaS platforms. We are scaling rapidly and seeking a Senior Full Stack Engineer to lead front-to-back development across our merchant dashboard and billing API.
+
+What You Will Do:
+- Architect and develop modern, intuitive web applications using React, TypeScript, and modern state management.
+- Build resilient, performant backend microservices and REST/GraphQL APIs with Python (FastAPI).
+- Partner with database administrators to optimize complex PostgreSQL queries, connection pooling, and Redis caching.
+- Drive reliability through automated unit, integration, and end-to-end testing (Jest, Pytest, Cypress/Playwright).
+- Collaborate with product designers and security teams to implement PCI-compliant checkout flows.
+
+Requirements:
+- 4+ years of professional full stack web engineering experience.
+- Deep expertise in modern React (Hooks, Context, TypeScript) and modern CSS frameworks (TailwindCSS).
+- Strong proficiency in Python backend frameworks (FastAPI or Django) and relational databases (PostgreSQL).
+- Experience designing RESTful APIs, asynchronous background jobs (Celery/Redis), and third-party integrations (Stripe, Plaid).
+- Solid grasp of CI/CD, Docker containerization, and AWS cloud deployment.
+- Bachelor's degree in Computer Science or equivalent practical experience.
+
+Nice to Have:
+- Experience with micro-frontends or Next.js server-side rendering.
+- Familiarity with event-driven architectures (Kafka or RabbitMQ).
+- Financial technology or payment processing domain knowledge.
